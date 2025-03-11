@@ -14,7 +14,7 @@ This mod was created as a solution to that.
 
 With this mod, if you have the lockpicking skill learned, you can unlock chests instantly with a single key!
 
-The default hotkey is KEY_V, but you can customize it in Gothic.ini. After launching the mod for the first time, a new section will be created where you can edit the settings.
+The default hotkey is KEY_V (Gothic 1) and MOUSE_BUTTONRIGHT (Gothic 2), but you can customize it in Gothic.ini. After launching the mod for the first time, a new section will be created where you can edit the settings.
 
 # Settings
 
@@ -26,4 +26,4 @@ UnlockHotkey=KEY_V
 
 SkipDoors=0
 
-// Set this to 1 if you don’t want the mod to work on doors. By default, the same button unlocks both chests and doors.
+// Set this to 1 if you donâ€™t want the mod to work on doors. By default, the same button unlocks both chests and doors.
