@@ -1,6 +1,7 @@
 # UnlockAll
 
 Gothic 1/2 mod, available through steam workshop:
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=3442779219
 
 # Description
@@ -16,8 +17,11 @@ The default hotkey is KEY_V, but you can customize it in Gothic.ini. After launc
 # Settings
 
 [UNLOCKALL]
+
 UnlockHotkey=KEY_V
+
 // Hotkey for quickly unlocking chests/doors
 
 SkipDoors=0
+
 // Set this to 1 if you don’t want the mod to work on doors. By default, the same button unlocks both chests and doors.
