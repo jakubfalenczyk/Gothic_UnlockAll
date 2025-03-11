@@ -2,7 +2,9 @@
 
 Gothic 1/2 mod, available through steam workshop:
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3442779219
+G1: https://steamcommunity.com/sharedfiles/filedetails/?id=3442779219
+
+G2: https://steamcommunity.com/sharedfiles/filedetails/?id=3442800514
 
 # Description
 
