@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnlockChests", "UnlockChests.vcxproj", "{37B7126F-15F9-415D-A7FF-38206809C271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		G1 Debug|x86 = G1 Debug|x86
+		G1 MD Release|x86 = G1 MD Release|x86
+		G1 MT Release|x86 = G1 MT Release|x86
+		G1A Debug|x86 = G1A Debug|x86
+		G1A MD Release|x86 = G1A MD Release|x86
+		G1A MT Release|x86 = G1A MT Release|x86
+		G2 Debug|x86 = G2 Debug|x86
+		G2 MD Release|x86 = G2 MD Release|x86
+		G2 MT Release|x86 = G2 MT Release|x86
+		G2A Debug|x86 = G2A Debug|x86
+		G2A MD Release|x86 = G2A MD Release|x86
+		G2A MT Release|x86 = G2A MT Release|x86
+		MP x2 Debug|x86 = MP x2 Debug|x86
+		MP x2 MD Release|x86 = MP x2 MD Release|x86
+		MP x2 MT Release|x86 = MP x2 MT Release|x86
+		MP x4 Debug|x86 = MP x4 Debug|x86
+		MP x4 MD Release|x86 = MP x4 MD Release|x86
+		MP x4 MT Release|x86 = MP x4 MT Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1 Debug|x86.ActiveCfg = G1 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1 Debug|x86.Build.0 = G1 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1 MD Release|x86.ActiveCfg = G1 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1 MD Release|x86.Build.0 = G1 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1 MT Release|x86.ActiveCfg = G1 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1 MT Release|x86.Build.0 = G1 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1A Debug|x86.ActiveCfg = G1A Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1A Debug|x86.Build.0 = G1A Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1A MD Release|x86.ActiveCfg = G1A MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1A MD Release|x86.Build.0 = G1A MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1A MT Release|x86.ActiveCfg = G1A MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G1A MT Release|x86.Build.0 = G1A MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2 Debug|x86.ActiveCfg = G2 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2 Debug|x86.Build.0 = G2 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2 MD Release|x86.ActiveCfg = G2 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2 MD Release|x86.Build.0 = G2 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2 MT Release|x86.ActiveCfg = G2 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2 MT Release|x86.Build.0 = G2 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2A Debug|x86.ActiveCfg = G2A Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2A Debug|x86.Build.0 = G2A Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2A MD Release|x86.ActiveCfg = G2A MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2A MD Release|x86.Build.0 = G2A MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2A MT Release|x86.ActiveCfg = G2A MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.G2A MT Release|x86.Build.0 = G2A MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x2 Debug|x86.ActiveCfg = MP x2 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x2 Debug|x86.Build.0 = MP x2 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x2 MD Release|x86.ActiveCfg = MP x2 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x2 MD Release|x86.Build.0 = MP x2 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x2 MT Release|x86.ActiveCfg = MP x2 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x2 MT Release|x86.Build.0 = MP x2 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x4 Debug|x86.ActiveCfg = MP x4 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x4 Debug|x86.Build.0 = MP x4 Debug|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x4 MD Release|x86.ActiveCfg = MP x4 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x4 MD Release|x86.Build.0 = MP x4 MD Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x4 MT Release|x86.ActiveCfg = MP x4 MT Release|Win32
+		{37B7126F-15F9-415D-A7FF-38206809C271}.MP x4 MT Release|x86.Build.0 = MP x4 MT Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D90F8477-A39D-4A61-A978-C2A0C1141593}
+	EndGlobalSection
+EndGlobal
